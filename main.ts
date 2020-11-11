@@ -24,6 +24,3 @@ input.onButtonPressed(Button.B, function () {
 LCD1IN8.LCD_Init()
 LCD1IN8.LCD_SetBL(10)
 LCD1IN8.LCD_Clear()
-basic.forever(function () {
-	
-})
