@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "LCD1in8": "github:waveshare/wslcd1in8#master"
     },
     "files": [
         "main.blocks",
